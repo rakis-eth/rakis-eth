@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakis-eth
-- 👀 I’m interested in web, functional javascript, deno, and svelteJS
+- 👀 I’m interested in web, functional javascript, nosql (single table design), deno, and svelteJS
 - 🌱 I’m currently learning continuous delivery
 - 💞️ I’m looking to collaborate on deno projects
 - 📫 How to reach me https://bitclout.com/u/rakis
